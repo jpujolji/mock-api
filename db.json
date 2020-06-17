@@ -1,31 +1,57 @@
 [{
-	"description": "Consumer Services",
-	"photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
-	"brand": {
-		"photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
-	}
-}, {
-	"description": "n/a",
-	"photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
-	"brand": {
-		"photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
-	}
-}, {
-	"description": "Basic Industries",
-	"photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
-	"brand": {
-		"photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
-	}
-}, {
-	"description": "Public Utilities",
-	"photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
-	"brand": {
-		"photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
-	}
-}, {
-	"description": "Technology",
-	"photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
-	"brand": {
-		"photo": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
-	}
+  "histories": [
+    {
+      "id": 1,
+      "description": "Finance",
+      "photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
+      "brand": {
+        "photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+      }
+    },
+    {
+      "id": 2,
+      "description": "Consumer Services",
+      "photo": "http://dummyimage.com/250x250.jpg/ff4444/ffffff",
+      "brand": {
+        "photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+      }
+    },
+    {
+      "id": 3,
+      "description": "n/a",
+      "photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+      "brand": {
+        "photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+      "likes": 13,
+      "comments": 9,
+      "user": {
+        "name": "Cyrill"
+      }
+    },
+    {
+      "id": 2,
+      "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+      "likes": 13,
+      "comments": 31,
+      "user": {
+        "name": "Vernen"
+      }
+    },
+    {
+      "id": 3,
+      "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+      "likes": 14,
+      "comments": 95,
+      "user": {
+        "name": "Reena"
+      }
+    }
+  ]
 }]
