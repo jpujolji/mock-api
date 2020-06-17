@@ -1,0 +1,31 @@
+[{
+	"description": "Consumer Services",
+	"photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+	"brand": {
+		"photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+	}
+}, {
+	"description": "n/a",
+	"photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
+	"brand": {
+		"photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+	}
+}, {
+	"description": "Basic Industries",
+	"photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
+	"brand": {
+		"photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+	}
+}, {
+	"description": "Public Utilities",
+	"photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
+	"brand": {
+		"photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+	}
+}, {
+	"description": "Technology",
+	"photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+	"brand": {
+		"photo": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
+	}
+}]
