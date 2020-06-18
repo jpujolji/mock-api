@@ -6,14 +6,21 @@
 			"description": "Transportation",
 			"photo": "http://dummyimage.com/250x250.jpg/5fa2dd/ffffff",
 			"brand": {
-				"photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+				"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/200px-Adidas_Logo.svg.png"
 			}
 		}, {
 			"id": 2,
 			"description": "Consumer Services",
 			"photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
 			"brand": {
-				"photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+				"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/245px-Logo_NIKE.svg.png"
+			}
+		}, {
+			"id": 3,
+			"description": "Finance",
+			"photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+			"brand": {
+				"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Diesel_Logo_2015.png/300px-Diesel_Logo_2015.png"
 			}
 		}],
 		"posts": [{
@@ -40,14 +47,14 @@
 			"description": "Finance",
 			"photo": "http://dummyimage.com/250x250.jpg/5fa2dd/ffffff",
 			"brand": {
-				"photo": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
+				"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/200px-Adidas_Logo.svg.png"
 			}
 		}, {
 			"id": 2,
-			"description": "n/a",
+			"description": "Clothing",
 			"photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
 			"brand": {
-				"photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+				"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/245px-Logo_NIKE.svg.png"
 			}
 		}],
 		"posts": [{
