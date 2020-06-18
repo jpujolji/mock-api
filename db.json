@@ -1,57 +1,71 @@
-[{
-  "histories": [
-    {
-      "id": 1,
-      "description": "Finance",
-      "photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
-      "brand": {
-        "photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
-      }
-    },
-    {
-      "id": 2,
-      "description": "Consumer Services",
-      "photo": "http://dummyimage.com/250x250.jpg/ff4444/ffffff",
-      "brand": {
-        "photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
-      }
-    },
-    {
-      "id": 3,
-      "description": "n/a",
-      "photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
-      "brand": {
-        "photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
-      }
-    }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "image": "http://dummyimage.com/400x400.png/dddddd/000000",
-      "likes": 13,
-      "comments": 9,
-      "user": {
-        "name": "Cyrill"
-      }
-    },
-    {
-      "id": 2,
-      "image": "http://dummyimage.com/400x400.png/dddddd/000000",
-      "likes": 13,
-      "comments": 31,
-      "user": {
-        "name": "Vernen"
-      }
-    },
-    {
-      "id": 3,
-      "image": "http://dummyimage.com/400x400.png/dddddd/000000",
-      "likes": 14,
-      "comments": 95,
-      "user": {
-        "name": "Reena"
-      }
-    }
-  ]
-}]
+{
+	"homes": [{
+		"id": 1,
+		"histories": [{
+			"id": 1,
+			"description": "Transportation",
+			"photo": "http://dummyimage.com/250x250.jpg/5fa2dd/ffffff",
+			"brand": {
+				"photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+			}
+		}, {
+			"id": 2,
+			"description": "Consumer Services",
+			"photo": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+			"brand": {
+				"photo": "http://dummyimage.com/250x250.png/cc0000/ffffff"
+			}
+		}],
+		"posts": [{
+			"id": 1,
+			"image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+			"likes": 61,
+			"comments": 34,
+			"user": {
+				"name": "Haywood"
+			}
+		}, {
+			"id": 2,
+			"image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+			"likes": 32,
+			"comments": 28,
+			"user": {
+				"name": "Modesty"
+			}
+		}]
+	}, {
+		"id": 2,
+		"histories": [{
+			"id": 1,
+			"description": "Finance",
+			"photo": "http://dummyimage.com/250x250.jpg/5fa2dd/ffffff",
+			"brand": {
+				"photo": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
+			}
+		}, {
+			"id": 2,
+			"description": "n/a",
+			"photo": "http://dummyimage.com/250x250.jpg/cc0000/ffffff",
+			"brand": {
+				"photo": "http://dummyimage.com/250x250.png/ff4444/ffffff"
+			}
+		}],
+		"posts": [{
+			"id": 1,
+			"image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+			"likes": 43,
+			"comments": 92,
+			"user": {
+				"name": "Alfonse"
+			}
+		}, {
+			"id": 2,
+			"image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+			"likes": 91,
+			"comments": 67,
+			"user": {
+				"name": "Shelby"
+			}
+		}]
+	}]
+}
